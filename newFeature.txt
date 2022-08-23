@@ -1,1 +1,2 @@
 New feature
+add parts of feature 1
